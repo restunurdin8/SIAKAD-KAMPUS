@@ -1,0 +1,56 @@
+
+#tabsview {
+    display: block;
+    float: left;
+    width:auto;
+	  font-size:10px;
+}
+
+.tab_bdr {
+    padding: 0px;
+    width: auto;
+    border: 0px;
+    border: 1px solid #fff;
+    height: 4px;
+    margin:0px;
+    background: #fff;
+    clear: left;
+    font-size: 0px;
+}
+.tab {
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+    font-size: 12px;
+    background:#999;
+    color: #FFF;
+    cursor: pointer;
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    height: 29px;
+    padding-top: 3px;
+    margin: 0px;
+    width:auto;
+    float: left;
+    text-decoration: none;
+  	font-weight:bold;
+}
+.tab_sel {
+    -moz-border-radius-topleft:6px;
+	  -moz-border-radius-topright:6px;
+	  font-weight:bold;
+    font-size: 12px;
+    background: black;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    border-bottom: 1px solid #65C80B;
+    height: 29px;
+    padding-top: 3px;
+    margin: 0px;
+    width:auto;
+    float: left;
+    text-decoration: none;
+}
+.tabjudul {
+	font-size:14px;
+}

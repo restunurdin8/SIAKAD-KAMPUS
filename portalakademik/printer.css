@@ -1,0 +1,59 @@
+<style type="text/css">
+
+.table_1{
+  width:auto;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 9pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D8D8D8;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+.table_1 td{
+	padding: 0.5em; 	color: #000;
+	vertical-align: top;
+	border-width: 0px;
+	padding: 4px;
+	border: 1px solid #000;
+	
+}
+
+
+.table_2{
+  width:100%;
+  font-family : Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+.table_2 td{
+	padding:1px 6px 2px 6px;
+	border: 1px solid #000; 
+	
+}
+
+th{
+	color: #000;
+	font-size: 9pt;
+	text-align: left;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+	border: 1px solid #efefef;
+		border-color: #000;
+	border-collapse: collapse;
+	background-color: #ccc;
+}
+
+.hb{
+	font-size: 15pt;
+}
+
+.hk{
+	font-size: 12pt;
+}
+</style>

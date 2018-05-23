@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteEngine on
+RewriteRule ^home$ media.php?page=home [L]
+RewriteRule ^ceck\.php$ ceckpass.php [L]
+#Options All -Indexes
