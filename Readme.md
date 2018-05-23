@@ -7,6 +7,6 @@ Fork Me [GitHub Pages](https://github.com/yysofiyan)
 
 My [website](https://yanyan-sofiyan.com)
 
-License
+## License
 
 This project under MIT License
