@@ -1,12 +1,18 @@
 ## Sistem Inforasi Akademik Kampus
----
+
 #### Developed by Yanyan Sofiyan, M.Kom.
 
+## Contact Me
 
-Fork Me [GitHub Pages](https://github.com/yysofiyan)
+- [StackOverflow](#)
+- [Facebook](#)
+- [LinkedIn](#)
+- Email : yanyan@stmik-sumedang.ac.id
+- [website](https://yanyan-sofiyan.com)
 
-My [website](https://yanyan-sofiyan.com)
 
-## License
+[![PHP version from PHP-Eye](https://img.shields.io/php-eye/symfony/symfony.svg?style=for-the-badge)](https://github.com/yysofiyan/SIAKAD-KAMPUS) [![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)](https://github.com/yysofiyan/SIAKAD-KAMPUS)
 
-This project under MIT License
+
+
+
